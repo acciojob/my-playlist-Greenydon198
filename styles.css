@@ -1,4 +1,47 @@
 /*  your css code here. If applicable */
 *{
-	background:#cccccc;
+	background-color:#cccccc;
+/* 	padding:0px; */
+}
+.player_one{
+	background-color:white;
+	border:1px solid black;
+	border-radius:5px:
+}
+h1{
+	text-align:center;
+}
+a{
+	text-decoration:none;
+	
+}
+ul{
+	text-align:left;
+	list-style-type:none;
+}
+h2{
+	text-align:center;
+}
+.player_two{
+	border:1px solid black;
+	text-align:center;
+	background:white;
+}
+#mp3{
+	margin-right:180px;
+	background-color:white;
+}
+audio{
+	padding-top:15px;
+}
+#mp3-heading{
+	margin-top:none;
+	background-color:white;
+}
+li{
+	background-color:white;
+	padding-left:none;
+}
+#song{
+	background-color:white;
 }
